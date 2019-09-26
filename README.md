@@ -1,2 +1,4 @@
 # numeric-reflect
-Reflection of Numerical Expressions with Variables=
+
+Like [simple-reflect](https://hackage.haskell.org/package/simple-reflect), but
+supporting more reductions.
